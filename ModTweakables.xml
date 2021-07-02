@@ -1,0 +1,6 @@
+﻿<Database>
+    
+    <GameDBTweakableInt ID="FIRST_NAME_COUNT"> <Value>128</Value>   </GameDBTweakableInt>
+    <GameDBTweakableInt ID="SURNAME_COUNT"> <Value>700</Value>   </GameDBTweakableInt>
+
+</Database>
